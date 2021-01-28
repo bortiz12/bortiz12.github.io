@@ -46,6 +46,17 @@ body {
     padding: 0.8em 1em;
     border-radius: 50px;
     text-decoration: none; }
+  .appWhatsapp{
+    position:fixed;
+    right: 26px;
+    bottom: 100px;
+    width: 60px;
+    z-index: 10000;
+  }
+  .appWhatsapp img{
+    width: 100%;
+    height: auto;
+  }
 
 @-webkit-keyframes animates {
   0% {
