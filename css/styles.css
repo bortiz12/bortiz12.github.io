@@ -49,7 +49,7 @@ body {
   .appWhatsapp{
     position:fixed;
     right: 26px;
-    bottom: 100px;
+    bottom: 50px;
     width: 60px;
     z-index: 10000;
   }
