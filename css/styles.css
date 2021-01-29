@@ -48,9 +48,9 @@ body {
     text-decoration: none; }
   .appWhatsapp{
     position:fixed;
-    right: 26px;
-    bottom: 50px;
-    width: 60px;
+    right: 20px;
+    bottom: 30px;
+    width: 50px;
     z-index: 10000;
   }
   .appWhatsapp img{
